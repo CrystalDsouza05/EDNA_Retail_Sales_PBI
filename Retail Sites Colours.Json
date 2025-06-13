@@ -1,0 +1,13 @@
+{
+
+"name": "Rakon",
+
+"dataColors": [ "#1CADE4", "#2683C6", "#27CED7", "#42BA97", "#3E8853", "#62A39F", "#6EAC1C", "#B26B02" ],
+
+"background":"#FFFFFF",
+
+"foreground": "#1b7eac",
+
+"tableAccent":"#5cbae5"
+
+}
