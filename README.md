@@ -39,3 +39,8 @@ It enables businesses to track regional sales and profitability, identify top-pe
 **Profit Analysis:**
 ![image](https://github.com/user-attachments/assets/5c1ae0e8-e91f-443d-91c8-15274e5e9646)
 
+**Image of Data Model**
+![image](https://github.com/user-attachments/assets/2fe838ff-6035-4cde-92cd-e773edf9754a)
+
+
+
