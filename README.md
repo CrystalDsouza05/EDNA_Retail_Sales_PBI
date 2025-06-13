@@ -6,19 +6,19 @@ This dashboard provides a comprehensive breakdown of revenue and profit trends a
 ## Key Regional Insights
 
 **Southeastern Region**
-- Total Revenue: $3.1M  Total Profit: $993.8K
+- Total Revenue: $3.1M | Total Profit: $993.8K
 - Top Cities: Spring Hill ($140K revenue  $42K profit), Palm Bay ($130K revenue), Coral Springs ($43K profit)
 - Leading Customers: Albert C. ($21K revenue  $7.4K profit), Christopher P. ($20K revenue)
 - Top Salespeople: Charles ($102K revenue  $35K profit), Andrew ($100K revenue  $32K profit)
 
 **Mid-Atlantic Region**
-- Total Revenue: $2.14K  Total Profit: $656.76K
+- Total Revenue: $2.14K | Total Profit: $656.76K
 - Top Cities: Columbia ($160K revenue  $49K profit), Wilmington ($120K revenue  $36K profit)
 - Leading Customers: Harold ($26K revenue  $7.5K profit), Patrick ($20K revenue  $6.4K profit)
 - Top Salespeople: Ronald ($92K revenue  $27K profit), Patrick ($87K revenue  $31K profit)
 
 **Northeastern Region**
-- Total Revenue: $4.14M  Total Profit: $1.36M
+- Total Revenue: $4.14M | Total Profit: $1.36M
 - Top Cities: Queens ($150K revenue  $52K profit), Paterson ($140K revenue  $43K profit)
 - Leading Customers: Adam J. ($29K revenue  $10.2K profit), Jesse G. ($25K revenue)
 - Top Salespeople: Martin P. ($130K revenue  $42K profit), Bobby R. ($130K revenue)
