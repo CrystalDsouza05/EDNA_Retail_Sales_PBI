@@ -23,19 +23,19 @@ This dashboard provides a comprehensive breakdown of revenue and profit trends a
 - Leading Customers: Adam J. ($29K revenue  $10.2K profit), Jesse G. ($25K revenue)
 - Top Salespeople: Martin P. ($130K revenue  $42K profit), Bobby R. ($130K revenue)
 
-Dashboard Features
+**Dashboard Features**
 - Map Visualization: Displays revenue and profit distribution across states.
 - Time Filters: Analyze trends over 7, 14, 30, 90, 180, and 360 days.
 - Revenue vs. Profit Toggle: Dynamic financial comparison across regions.
 
-Why This Dashboard Is Valuable
+**Why This Dashboard Is Valuable**
 It enables businesses to track regional sales and profitability, identify top-performing customers and salespeople, and optimize strategies for different locations
 
-Snap of Dashboard Page 
+**Snap of Dashboard Page**
 
-Revenue Analysis:
+**Revenue Analysis:**
 ![image](https://github.com/user-attachments/assets/30a41c41-f8f6-407d-821c-de0e9397c671)
 
-Profit Analysis:
+**Profit Analysis:**
 ![image](https://github.com/user-attachments/assets/5c1ae0e8-e91f-443d-91c8-15274e5e9646)
 
